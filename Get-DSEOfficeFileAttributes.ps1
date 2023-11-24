@@ -16,6 +16,7 @@
     - The function uses COM objects for Microsoft Office applications.
 #>
 
+
 function Get-DSEOfficeFileAttributes {
     [CmdletBinding()]
     Param (
